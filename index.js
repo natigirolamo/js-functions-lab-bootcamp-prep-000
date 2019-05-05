@@ -3,4 +3,9 @@
    console.log("Happy Holidays") 
  }
  
+ function happyHolidaysTo () {
+   console.log(`Hello, ${firstName}!`)
+}
+ }
+ 
  
