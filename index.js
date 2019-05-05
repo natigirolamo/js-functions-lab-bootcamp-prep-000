@@ -12,7 +12,7 @@
  };
  
  function holidayCountdown (days, holiday) {
-   return ${holiday}, ${name}!`
- };
+   return ${days}, ${holiday}!`
+ }
  
  
